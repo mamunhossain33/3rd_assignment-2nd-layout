@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Header section start */
+header{
+   overflow:hidden;
+   text-align: center;
+}
+.logo{
+    width: 25%;
+    height: 50px;
+    background-color: tomato;
+    float: left;
+}
+nav{
+    width: 75%;
+    height: 50px;
+    background-color: royalblue;
+    float: right;
+}
+/* Header section End */
+/* banner section start */
+.banner_section{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(176, 245, 111);
+    text-align: center;
+}
+.service_section{
+    overflow:hidden;
+    text-align: center;
+}
+.service_left{
+    width: 50%;
+    height: 200px;
+    background-color: seagreen;
+    float: right;
+}
+.service-right{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(255, 251, 0);
+    float: right;
+}
+/* banner section End */
+/* About section start */
+.about_section{
+    overflow: hidden;
+    text-align: center;
+}
+.about_left{
+    width: 70%;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+    float: left;
+}
+.about_right{
+    width: 30%;
+    height: 100px;
+    background-color: rgb(25, 0, 255);
+    float: right;
+}
+/* About section End */
+/* clint feed back section start */
+.clint_feedback_section{
+    overflow: hidden;
+}
+.client-feedback_1{
+    width: 25%;
+    height: 100px;
+    background-color: rgb(38, 189, 0);
+    float: left;
+}
+.client-feedback_2{
+    width: 25%;
+    height: 100px;
+    background-color: rgb(38, 255, 0);
+    float: left;
+}
+.client-feedback_3{
+    width: 25%;
+    height: 100px;
+    background-color: rgb(0, 195, 255);
+    float: left;
+}
+.client-feedback_4{
+    width: 25%;
+    height: 100px;
+    background-color: rgb(48, 1, 134);
+    float: left;
+}
+/* client feed back sectiion End */
+/* footer section start */
+footer{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+/* footer section End  */
